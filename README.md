@@ -1,6 +1,6 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There!+👋+I'm+Pratham+Kadam!;)](https://git.io/typing-svg) -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&width=435&duraion=4000&lines=Hi+There!+👋;+I'm+Pratham+Kadam!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&width=500&height=70&duraion=4000&lines=Hi+There!+👋;+I'm+Pratham+Kadam!" alt="Typing SVG" /></a>
 </h1>
 # 👋 Hi, I'm Pratham
 🔭 I’m currently working on Global IT Infosolution<br>
