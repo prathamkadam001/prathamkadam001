@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Pratham
+# 👋 Hi, I'm Pratham
 🔭 I’m currently working on Global IT Infosolution<br>
 🌱 I’m currently learning in Diploma In IT at the Silver Oak University<br>
 
