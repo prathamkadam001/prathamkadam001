@@ -9,9 +9,9 @@
   
 🔭 I’m currently working on **Global IT Infosolution**
   
-🌱 I’m currently learning in Diploma In IT at the Silver Oak University<br />
+🌱 I’m currently learning in **Diploma In IT at the Silver Oak University**
 
-💬 Ask me about Node Js, React, Next Js, MySQL or anything
+💬 Ask me about **Node Js, React, Next Js, MySQL or anything**
 
 </div>
 
