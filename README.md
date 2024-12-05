@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   
-🔭 I’m currently working on **Global IT Infosolution**
+🔭 I’m currently working on [**Global IT Infosolution**](https://globalitinfosolution.com/)
   
 🌱 I’m currently learning in **Diploma In IT at the Silver Oak University**
 
