@@ -1,7 +1,7 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&size=35&width=500&height=70&duraion=4000&lines=Hi+There!+👋;+I'm+Pratham+Kadam!" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&vCenter=true&size=35&width=500&height=70&duraion=4000&lines=Hi+There!+👋;+I'm+Pratham+Kadam!" alt="Typing SVG" /></a>
 </h1>
-
+<!-- https://git.io/typing-svg -->
 <h3 align="center">A passionate Full Stack Developer from Indian</h3>
 
 <br />
